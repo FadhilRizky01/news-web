@@ -1,5 +1,3 @@
-import { data } from "autoprefixer";
-
 const Card = (props) => {
   return (
     <div className="max-w-md border border-slate-200 rounded-xl mx-auto shadow-md font-serif my-10 p-5 hover:bg-sky-500 group dark:hover:bg-slate-400 ">
